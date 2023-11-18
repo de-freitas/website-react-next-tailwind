@@ -7,7 +7,8 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Travel",
   description: "Travel UI/UX App for Camping",
-  icons: "https://camptraveler.com/camp.svg",
+  icons:
+    "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/camp.svg",
 };
 
 export default function RootLayout({

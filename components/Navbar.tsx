@@ -7,8 +7,7 @@ import { Button } from "./Button";
 export const Navbar = () => {
   return (
     <nav
-      className="border-2 border-red-500
-      flexBetween
+      className="flexBetween
       max-container
       padding-container
       relative
