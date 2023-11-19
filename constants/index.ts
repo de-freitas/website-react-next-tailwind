@@ -19,29 +19,29 @@ export const PEOPLE_URL = [
 export const FEATURES = [
   {
     title: "Real maps can be offline",
-    icon: "/map.svg",
-    variant: "green",
+    icon: "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/map.svg",
+    variant: "bg-green-50",
     description:
       "We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location",
   },
   {
     title: "Set an adventure schedule",
-    icon: "/calendar.svg",
-    variant: "green",
+    icon: "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/calendar.svg",
+    variant: "bg-green-50",
     description:
       "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
   },
   {
     title: "Technology using augment reality",
-    icon: "/tech.svg",
-    variant: "green",
+    icon: "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/tech.svg",
+    variant: "bg-green-50",
     description:
       "Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection",
   },
   {
     title: "Many new locations every month",
-    icon: "/location.svg",
-    variant: "orange",
+    icon: "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/location.svg",
+    variant: "bg-green-50",
     description:
       "Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing",
   },
