@@ -77,10 +77,10 @@ export const FOOTER_CONTACT_INFO = {
 export const SOCIALS = {
   title: "Social",
   links: [
-    "/facebook.svg",
-    "/instagram.svg",
-    "/twitter.svg",
-    "/youtube.svg",
-    "/wordpress.svg",
+    "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/facebook.svg",
+    "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/instagram.svg",
+    "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/twitter.svg",
+    "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/youtube.svg",
+    "https://raw.githubusercontent.com/adrianhajdin/travel_ui_ux/2fb7b15bd4472039031e28cb6725326a791c4d44/public/wordpress.svg",
   ],
 };
