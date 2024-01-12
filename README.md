@@ -2,35 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Welcome to the website-react-next-tailwind!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This responsive web page was developed for React and Next.js studies, exploring the concepts of componentization, and styled with Tailwind CSS and responsive.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To see the project working, please visit: https://website-react-next-tailwind.vercel.app/.
+Here's some pics:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/de-freitas/website-react-next-tailwind/assets/85907836/b2622015-2d9a-4535-8201-e37baa47cc93)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/de-freitas/website-react-next-tailwind/assets/85907836/9b06bb34-75ec-4ed7-bed4-7c46be0ffd37)
 
-## Learn More
+![image](https://github.com/de-freitas/website-react-next-tailwind/assets/85907836/d0d098ab-3764-4293-9a74-585aa8467091)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/de-freitas/website-react-next-tailwind/assets/85907836/26e33284-8182-4404-a6c7-c4922cef1ec2)
