@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Welcome to the website-react-next-tailwind!
 
-This responsive web page was developed for React and Next.js studies, exploring the concepts of componentization, and styled with Tailwind CSS and responsive.
+This responsive web page was developed for React and Next.js studies, exploring the concepts of componentization, styled with Tailwind CSS and responsive.
 
 To see the project working, please visit: https://website-react-next-tailwind.vercel.app/.
 Here's some pics:
